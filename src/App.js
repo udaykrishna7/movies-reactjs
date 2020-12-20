@@ -28,7 +28,7 @@ export default function App() {
   return (
     <div className="App">
       <section>
-        <h1>movies</h1>
+        <h1 style={{ fontSize: "32px" }}>🎬movies</h1>
         <p style={{ fontSize: "smaller" }}>
           here are some of my favourite movies you should definitely not miss
         </p>
